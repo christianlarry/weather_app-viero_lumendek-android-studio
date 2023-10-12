@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="kecepatan_angin">Kecepatan Angin</string>
+</resources>
